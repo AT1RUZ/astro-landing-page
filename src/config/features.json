@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Feature 1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, maxime."
+    },
+    {
+        "name": "Feature 2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, maxime."
+    },
+    {
+        "name": "Feature 3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, maxime."
+    },
+    {
+        "name": "Feature 4",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, maxime."
+    },
+    {
+        "name": "Feature 5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, maxime."
+    },
+    {
+        "name": "Feature 6",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, maxime."
+    }
+]

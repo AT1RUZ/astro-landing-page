@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Project A",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magnam aliquid voluptatum. Illo hic recusandae nulla? Eum, ut! Laboriosam voluptatem natus minima placeat eius porro alias esse, minus praesentium consequuntur.",
+        "img": "images/fingerprint.svg"
+    },
+    {
+        "name": "Project B",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magnam aliquid voluptatum. Illo hic recusandae nulla? Eum, ut! Laboriosam voluptatem natus minima placeat eius porro alias esse, minus praesentium consequuntur.",
+        "img": "images/fingerprint.svg"
+    },
+    {
+        "name": "Project C",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magnam aliquid voluptatum. Illo hic recusandae nulla? Eum, ut! Laboriosam voluptatem natus minima placeat eius porro alias esse, minus praesentium consequuntur.",
+        "img": "images/fingerprint.svg"
+    },
+    {
+        "name": "Project D",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magnam aliquid voluptatum. Illo hic recusandae nulla? Eum, ut! Laboriosam voluptatem natus minima placeat eius porro alias esse, minus praesentium consequuntur.",
+        "img": "images/fingerprint.svg"
+    },
+    {
+        "name": "Project E",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magnam aliquid voluptatum. Illo hic recusandae nulla? Eum, ut! Laboriosam voluptatem natus minima placeat eius porro alias esse, minus praesentium consequuntur.",
+        "img": "images/fingerprint.svg"
+    },
+    {
+        "name": "Project F",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magnam aliquid voluptatum. Illo hic recusandae nulla? Eum, ut! Laboriosam voluptatem natus minima placeat eius porro alias esse, minus praesentium consequuntur.",
+        "img": "images/fingerprint.svg"
+    }
+]
